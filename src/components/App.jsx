@@ -2,8 +2,8 @@ import React, { Component } from 'react'
 import {Loader} from './shared/Loader/Loader'
 import ImageGallery from './ImageGallery/ImageGallery';
 import { LoadMoreBtn } from './shared/LoadMoreBtn/LoadMoreBtn';
-import css from './components/Styled/Styles.module.css';
-import {searchApiImg} from 'components/servises/searchApi'
+import css from './Styled/Styles.module.css';
+import {searchApiImg} from './servises/searchApi'
 import Searchbar from './Searchbar/Searchbar';
 import Modal from './shared/Modal/Modal';
 
