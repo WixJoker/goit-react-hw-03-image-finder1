@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import {ImSearch} from 'react-icons/im';
-import css from './components/Styled/Styles.module.css'
+import css from './Styled/Styles.module.css'
 
 export default class Searchbar extends Component {
     state = {
